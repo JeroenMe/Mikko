@@ -1,0 +1,13 @@
+{
+    "name": "jeroen/mikko",
+    "description": "Mikko test",
+    "authors": [
+        {
+            "name": "JeroenMe",
+            "email": "jeroen@tactics.be"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^5.5"
+    }
+}
